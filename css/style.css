@@ -651,6 +651,13 @@ h3.my_profession {
     cursor: pointer;
 }
 
+.portfolio .portfolio_item .portfolio_item_inner .portfolio_img h4{
+    padding: 5px 10px 10px 10px;
+    color: var(--text-black-900);
+    margin-top: 5px;
+    border-top: 3px solid var(--bg-black-50);
+  
+}
 .portfolio .portfolio_item .portfolio_item_inner .portfolio_img img {
     display: block;
     width: 100%;
@@ -739,6 +746,7 @@ h3.my_profession {
 
 .contact .contact_form .form_item textarea.form_control {
     height: 140px;
+    resize: none;
 
 }
 

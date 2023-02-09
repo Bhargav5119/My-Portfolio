@@ -1,7 +1,7 @@
 // ===========================  typing animation ============================ //
 
 var typed = new Typed(".typing", {
-    strings: ["", "Web Designer", "Web Developer", "you tuber"],
+    strings: ["", "Web Designer","Frontend Developer", "Web Developer"],
     typeSpeed: 50,
     loop: true,
     backDelay: 100,
